@@ -1,0 +1,147 @@
+Course Structure:
+	->python
+	->data collection
+	->data cleaning and visualization
+	->statistics and maths
+	->machine learning
+
+How course will run:
+	->Lecture
+	->MCQ's
+	->Assignment/Minor projects
+	->Major projects
+	->Kaggle
+	->TA support
+	->Total 31 weeks
+
+
+Milestone 1: --> 5 weeks
+
+	projects:
+
+		->case study part -1(assignment)
+		->case study part -2(project)
+
+	->Introduction to data science
+	->Introduction to python
+	->conditions and loops
+	->patterns
+	->more on loops
+	->strings,list & 2d list
+	->functions
+	->tuples, dictionary and sets
+	->object oriented programming systems(OOPs)
+	->working with files
+	->numpy
+	->pandas
+	->plotting graphs
+
+
+Milestone 2: --> 6 weeks
+
+	projects:
+
+		->TMDb API (assignment)
+		->InstaBot - 1(project)
+		->InstaBot - 2(project)
+	->structured query language(SQL) - basic
+	->structured query language(SQL) - advance
+	->indexing and SQLite
+	->Application Programming Interfaces (APIs) -1
+	->Application Programming Interfaces (APIs) -2
+	->Web scraping - BeautifulSoup
+	->Web scraping - Selenium
+	->Web scraping - Advanced selenium
+	->Introduction to data visualization
+	->getting familiar with tableau
+	->tableau visualizations
+	->seaborn
+
+
+Milestone 3: -->1 week
+
+	projects: 
+		No projects
+
+	->statistics
+	->descriptive statistics
+	->introduction to inferential statistics
+	->inferential statistics : Hypothesis testing
+
+
+Milestone 4: --> 7 weeks
+
+	projects:
+
+		->gradient descent
+		->logistic regression
+		->decision tree implementation(project)
+		->text classification(project)
+
+	->Introduction of machine learning
+	->linear regression
+	->Multivariable regression and gradient descent
+	->feature scaling
+	->logistic regression
+	->classification measures
+	->decision tree - 1
+	->decision tree -2
+	->random forests
+	->naive bayes
+	->tensorflow
+
+
+Milestone 5: --> 4 weeks
+
+	projects:
+
+		->Cifar10
+		->twitter sentiment analysis
+
+	->k-nearest neighbours(K-NN)
+	->support vector machine(SVM)
+	->principal component analysis(PCA) - 1
+	->principal component analysis(PCA) - 2
+	->natural language processing(NLP) - 1
+	->natural language processing(NLP) - 2
+
+
+Milestone 6: --> 8 weeks
+
+	projects:
+		->distracted driver detection(project)
+		->neural machine translation(project)
+
+	->neural networks - 1
+	->neural networks - 2
+	->keras
+	->convolutional neural network(CNN) - 1
+	->convolutional neural network(CNN) - 2
+	->recurrent neural network(RNN)
+	->long short-term memory(LSTM)
+	->unsupervised learning - 1
+	->unsupervised learning - 2
+	->git
+	->project
+	->facial emotions recognition
+	->text generation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
